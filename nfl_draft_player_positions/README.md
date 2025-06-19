@@ -29,3 +29,10 @@ correlation shown in these results, not causation.
 
 But at the end of the day, if I'm a GM, I'd like to at least be correlated with
 winning team decisions, even if they may not be causing wins.
+
+## On socials
+
+Shared these posts on [Reddit][reddit] and Twitter/X. Follow me at
+[x.com/AkhilRaju92](https://x.com/AkhilRaju92).
+
+[reddit]: <https://www.reddit.com/r/NFL_Draft/comments/1k634w4/impact_of_top_draft_picks_by_player_position/>
