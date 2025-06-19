@@ -1,5 +1,10 @@
 # Looking at the impact of top draft picks by player position
 
+<picture>
+  <img src="./images/nfl_wins_added_by_draft_pos.png" height="300" />
+  <img src="./images/nfl_wins_added_with_var.png" height="300" />
+</picture>
+
 ## Intro and approach
 
 Before the 2025 NFL Draft, I wanted to look at which positions had the most
